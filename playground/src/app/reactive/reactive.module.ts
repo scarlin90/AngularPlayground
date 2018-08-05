@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { NotificationComponent } from './notification-component/notification/notification.component';
+import { NotificationComponent } from './notification-component/notification.component';
 import { NotificationService } from './notification-service/notification.service';
 import { ExternalLibrariesModule } from '../external-libraries/external-libraries.module';
 
