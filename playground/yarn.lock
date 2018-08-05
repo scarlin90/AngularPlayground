@@ -95,9 +95,9 @@
     "@angular-devkit/core" "0.7.1"
     rxjs "^6.0.0"
 
-"@angular/animations@^6.1.0":
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-6.1.0.tgz#498d3a5bbfe4c89b044c1073007913199b9b98b9"
+"@angular/animations@^6.1.1":
+  version "6.1.1"
+  resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-6.1.1.tgz#aea467f84e4344601bcb3c00929be4efe86d3606"
   dependencies:
     tslib "^1.9.0"
 
@@ -3964,6 +3964,16 @@ neo-async@^2.5.0:
 next-tick@1:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
+
+ngx-bootstrap@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/ngx-bootstrap/-/ngx-bootstrap-3.0.1.tgz#e98d2fc6340f32a9d358cd08e8fda7dcb23bdab3"
+
+ngx-toastr@^8.10.0:
+  version "8.10.0"
+  resolved "https://registry.yarnpkg.com/ngx-toastr/-/ngx-toastr-8.10.0.tgz#3b5b5c0e766e8f17540e9d6d08d086cb3acaa35a"
+  dependencies:
+    tslib "^1.9.0"
 
 no-case@^2.2.0:
   version "2.3.2"

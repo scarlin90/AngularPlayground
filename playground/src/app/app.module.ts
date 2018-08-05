@@ -3,6 +3,7 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { DisableFieldsModule } from './disable-fields/disable-fields.module';
+import { ReactiveModule } from './reactive/reactive.module';
 
 @NgModule({
   declarations: [
@@ -10,7 +11,8 @@ import { DisableFieldsModule } from './disable-fields/disable-fields.module';
   ],
   imports: [
     BrowserModule,
-    DisableFieldsModule
+    DisableFieldsModule,
+    ReactiveModule
   ],
   providers: [],
   bootstrap: [AppComponent]
